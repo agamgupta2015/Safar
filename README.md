@@ -9,6 +9,8 @@ This project aims to detect accidents in real-time using computer vision techniq
 - [Features](#features)
 - [Workflow](#workflow)
 - [Dataset](#dataset)
+- [Challenges](#challenges)
+- [Future Scope](#futurescope)
 - [Installation](#installation)
 
 ## Introduction
@@ -41,6 +43,18 @@ Before running the project, ensure you have the following dependencies installed
 - Requests
 - Twilio
 - Googletrans
+
+## Challenges
+
+- Finding dataset
+- Finding near by hospitals without Google API
+- Translating message to regional language without Google translate api
+- Training the model to have high accuracy with minimised loss
+
+## Future Scope
+
+- Our goal is to make it user-friendly for seamless integration into various digital platforms, making our solutions accessible to a wider audience
+- After seeing how well our tests went in big cities, we're ready to spread our ideas far and wide. We want to reach more people and make a bigger impact with what we've learned.
 
 Clone the repository to your local machine:
 
