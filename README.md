@@ -8,6 +8,7 @@ This project aims to detect accidents in real-time using computer vision techniq
 - [Introduction](#introduction)
 - [Features](#features)
 - [Workflow](#workflow)
+- [Dataset](#dataset)
 - [Installation](#installation)
 
 ## Introduction
@@ -25,6 +26,10 @@ Accident Detection and Emergency Alert System is a project designed to enhance r
 
 This image illustrates the workflow of the accident detection and emergency alert system.
 ![Workflow](workflow.png)
+
+## Dataset
+This is the dataset which we have used to train the model.
+https://drive.google.com/drive/folders/1Hj2p4nXilXrG--K7n56YDjXa_egA0p6L?usp=sharing
 
 ## Installation
 
