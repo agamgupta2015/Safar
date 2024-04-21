@@ -36,6 +36,7 @@ Before running the project, ensure you have the following dependencies installed
 - Requests
 - Twilio
 - Googletrans
+
 Clone the repository to your local machine:
 
 ```bash
