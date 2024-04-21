@@ -1,5 +1,5 @@
 # Safar
-# Accident Detection and Emergency Alert System
+# Accident Detection and Emergency Rescue
 
 This project aims to detect accidents in real-time using computer vision techniques and alert emergency services with the location details. The system processes video streams and identifies accident occurrences, subsequently sending alerts to predefined emergency contact numbers and also to the nearby hospitals present, so as to rescue the patient fast.
 
