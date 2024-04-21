@@ -40,4 +40,4 @@ Before running the project, ensure you have the following dependencies installed
 Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/agamgupta2015/accident_detection.git
+git clone https://github.com/agamgupta2015/safar.git
