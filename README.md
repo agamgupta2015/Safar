@@ -7,9 +7,8 @@ This project aims to detect accidents in real-time using computer vision techniq
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
 - [Workflow](#workflow)
-
+- [Installation](#installation)
 
 ## Introduction
 
@@ -22,6 +21,11 @@ Accident Detection and Emergency Alert System is a project designed to enhance r
 - Retrieval of nearby hospital locations for immediate assistance.
 - Multilingual support for alert messages using Google Translate.
 
+## Workflow
+
+This image illustrates the workflow of the accident detection and emergency alert system.
+![Workflow](workflow.png)
+
 ## Installation
 
 Before running the project, ensure you have the following dependencies installed:
@@ -32,14 +36,9 @@ Before running the project, ensure you have the following dependencies installed
 - Requests
 - Twilio
 - Googletrans
-
 Clone the repository to your local machine:
 
 ```bash
 git clone https://github.com/agamgupta2015/accident_detection.git
-
-## Workflow
-
-This image illustrates the workflow of the accident detection and emergency alert system.
-![Workflow](workflow.png)
+```bash
 
